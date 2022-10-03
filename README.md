@@ -16,7 +16,7 @@ A rough framework of the website structure.
 <details open>
 <summary>Project page</summary>
 <br>
-![image](https://user-images.githubusercontent.com/57181615/193662374-c796c0b9-965a-409d-9eeb-71d62e2b64b9.png)
+![image](https://user-images.githubusercontent.com/57181615/193662574-ee403daf-4d6c-46e1-a59b-434215517768.png)
 </details>
 
 
