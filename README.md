@@ -4,13 +4,20 @@ Website meant to showcase my portfolio of work.
 # Wireframing
 A rough framework of the website structure.
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Home page</summary>
 <br>
-Well, you asked for it!
-</details>
 ![image](https://user-images.githubusercontent.com/57181615/193661724-2d6ba826-05c3-4b61-a3e0-4b087c4aae61.png)
-![image](https://user-images.githubusercontent.com/57181615/193661788-7dde935d-7b27-4ff8-9f1c-a1d616e8ba3d.png)
-![image](https://user-images.githubusercontent.com/57181615/193661829-bf588f0b-9ceb-444d-9adf-66db912afafc.png)
+</details>
+<details open>
+<summary>About page</summary>
+<br>
+![image](https://user-images.githubusercontent.com/57181615/193661724-2d6ba826-05c3-4b61-a3e0-4b087c4aae61.png)
+</details>
+<details open>
+<summary>Project page</summary>
+<br>
+![image](https://user-images.githubusercontent.com/57181615/193662374-c796c0b9-965a-409d-9eeb-71d62e2b64b9.png)
+</details>
 
 
 
