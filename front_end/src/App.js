@@ -4,7 +4,11 @@ import Header from './components/basic_structure/header'
 import Body from './components/basic_structure/body'
 import Footer from './components/basic_structure/footer'
 
+
 function App() {
+
+  
+
   return (
     <div>
       <Header/>
